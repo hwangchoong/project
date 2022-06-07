@@ -2,7 +2,7 @@ import sys,socket
 from PyQt5.QtWidgets import *
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-
+22125756
 svrIP = input(("Server IP(default:127.0.0.1"))
 class Myapp(QWidget):
 
